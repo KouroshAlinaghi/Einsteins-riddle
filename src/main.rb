@@ -36,6 +36,7 @@ def solve
                 t.style = {:all_separators => true}
               end
               puts table
+              break
             end
           end
       end
